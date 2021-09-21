@@ -3,4 +3,4 @@ Using flask to build an API to CRUD a beer db
 
 * Command to run the application
 
-  * python crud.py
+  * _python crud.py_
